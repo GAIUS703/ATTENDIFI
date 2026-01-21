@@ -1,0 +1,8 @@
+{
+  "name": "attendifi-monorepo",
+  "private": true,
+  "workspaces": [
+    "client",
+    "backend"
+  ]
+}
